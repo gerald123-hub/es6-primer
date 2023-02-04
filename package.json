@@ -1,0 +1,23 @@
+{
+  "name": "es6-primer",
+  "version": "1.0.0",
+  "description": "Gerald's bproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerald123-hub/es6-primer.git"
+  },
+  "keywords": [
+    "es6"
+  ],
+  "author": "Gerald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerald123-hub/es6-primer/issues"
+  },
+  "homepage": "https://github.com/gerald123-hub/es6-primer#readme",
+  "type": "module"
+}
